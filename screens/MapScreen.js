@@ -121,7 +121,7 @@ export default function MapScreen() {
                bg="white"
                borderRadius={60}
                position="absolute"
-               shadow="3"
+               shadow="2"
                zIndex={99}
                right={5}
                bottom={5}
